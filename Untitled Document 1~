@@ -1,3 +1,4 @@
-var="Hello World!"
+"Welcome!!"
+var=raw_input("Enter anything: ")
 
 print var
